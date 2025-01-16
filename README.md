@@ -9,4 +9,4 @@ insights on what it takes to get loan approval.
 patterns to assess and mitigate financial risk.
  Aggregated and visualized the data by using seaborn,pandas, matplotlib and word cloud 
 to compile a professional report.
- https://github.com/bijear01/Loan-risk-Analyti
+
